@@ -16,4 +16,4 @@ credits: true
 
 The collection includes some decorative motives, e.g. floral elements.
 
-{% include feature/image.html objectid=dmc129 width="75" %}
+{% include feature/image.html objectid="dmc129" width="75" %}
